@@ -1,0 +1,6 @@
+{
+  "name": "Restclient-android",
+  "tagline": "",
+  "body": "# RestClient-Android\r\nSimple way to call API RESTful , auto mapping class to Json and Json to class, auto deserialize and serialize object.\r\n\r\nsee code on unit test to use library.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
